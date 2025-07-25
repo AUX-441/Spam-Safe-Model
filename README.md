@@ -50,15 +50,15 @@ Run the training script:
 bash
 python Train_Model.py
 
-Loads and cleans the dataset (SMSSpamCollection)
+- Loads and cleans the dataset (SMSSpamCollection)
 
-Balances it using SMOTE
+- Balances it using SMOTE
 
-Trains a logistic regression model
+- Trains a logistic regression model
 
-Saves the model and vectorizer to the Model/ directory
+- Saves the model and vectorizer to the Model/ directory
 
-Generates and saves a confusion matrix plot as Confusion_Matrix.png
+- Generates and saves a confusion matrix plot as Confusion_Matrix.png
 
 
 🔮 How to Predict
