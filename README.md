@@ -45,6 +45,9 @@ Install all dependencies using:
 pip install -r requirements.txt
 
 
+--- 
+
+
 ## 🚀 How to Train the Model
 Run the training script:
 ```bash
