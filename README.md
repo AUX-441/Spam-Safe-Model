@@ -64,10 +64,9 @@ bash
 ## **🔮 How to check if your text is spam or not**
 - Run the prediction script:
 
-- bash
-- **python Read_And_Predict.py**
-
-- Enter Text To check: "Congratulations! You've won a prize!"
-- Predicted Model: ((Congratulations Youve won a prize)) is = Spam
+```bash
+python Read_And_Predict.py
+Enter Text To check: "Congratulations! You've won a prize!"
+Predicted Model: ((Congratulations Youve won a prize)) is = Spam
 
 
