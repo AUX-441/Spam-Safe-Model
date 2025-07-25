@@ -65,6 +65,3 @@ bash
 
 ```bash
 python Read_And_Predict.py
-
-
-
