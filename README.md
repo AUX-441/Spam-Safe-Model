@@ -61,7 +61,7 @@ bash
 - Generates and saves a confusion matrix plot as Confusion_Matrix.png
 
 
-- **🔮 How to check if your text is spam or not**
+## **🔮 How to check if your text is spam or not**
 - Run the prediction script:
 
 - bash
