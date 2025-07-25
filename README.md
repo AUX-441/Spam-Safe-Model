@@ -15,7 +15,7 @@ This project is a simple yet effective spam message classification system using 
 
 ---
 
-## 📊 Confusion Matrix
+## **📊 Confusion Matrix**
 
 This image is automatically generated after training:
 
@@ -42,13 +42,13 @@ This image is automatically generated after training:
 - Install all dependencies using:
 
 - bash
-- "pip install -r requirements.txt"
+- **pip install -r requirements.txt**
 
 
 ## 🚀 How to Train the Model
 Run the training script:
 bash
-"python Train_Model.py"
+**python Train_Model.py**
 
 - Loads and cleans the dataset (SMSSpamCollection)
 
@@ -61,11 +61,11 @@ bash
 - Generates and saves a confusion matrix plot as Confusion_Matrix.png
 
 
-- 🔮 How to Predict
+- **🔮 How to Predict**
 - Run the prediction script:
 
 - bash
-- "python Read_And_Predict.py"
+- **python Read_And_Predict.py**
 
 - Enter Text To check: "Congratulations! You've won a prize!"
 - Predicted Model: ((Congratulations Youve won a prize)) is = Spam
