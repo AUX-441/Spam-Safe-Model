@@ -41,7 +41,7 @@ This image is automatically generated after training:
 
 - Install all dependencies using:
 
-- bash
+```bash
 - **pip install -r requirements.txt**
 
 
@@ -66,7 +66,9 @@ bash
 
 ```bash
 python Read_And_Predict.py
-Enter Text To check: "Congratulations! You've won a prize!"
-Predicted Model: ((Congratulations Youve won a prize)) is = Spam
+
+
+- **Enter Text To check: "Congratulations! You've won a prize!"**
+- **Predicted Model: ((Congratulations Youve won a prize)) is = Spam**
 
 
