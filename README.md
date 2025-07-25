@@ -41,16 +41,13 @@ This image is automatically generated after training:
 
 Install all dependencies using:
 
-```bash
+bash
 pip install -r requirements.txt
-
-
---- 
 
 
 ## 🚀 How to Train the Model
 Run the training script:
-```bash
+bash
 python Train_Model.py
 
 Loads and cleans the dataset (SMSSpamCollection)
@@ -67,7 +64,7 @@ Generates and saves a confusion matrix plot as Confusion_Matrix.png
 🔮 How to Predict
 Run the prediction script:
 
-```bash
+bash
 python Read_And_Predict.py
 
 Enter Text To check: "Congratulations! You've won a prize!"
