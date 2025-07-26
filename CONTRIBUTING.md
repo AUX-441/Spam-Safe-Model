@@ -18,9 +18,14 @@ Spam-Safe-Model is a machine learning based spam detection system designed to he
     ```bash
     pip install -r requirements.txt
     ```
-3. Run the main program:
+3. Run the Train.py program:
     ```bash
-    python main.py
+    python Train.py
+    ```
+
+4. Run the Test.py program:
+    ```bash
+    python Test.py
     ```
 
 ## How It Works
